@@ -1,2 +1,5 @@
 # hello-world
-learn git
+
+hi, Humans!
+
+I am Vincent from China.
